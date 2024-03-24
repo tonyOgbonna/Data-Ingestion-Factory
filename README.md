@@ -1,5 +1,5 @@
 # Data-Ingestion-Factory
-A Digital Knowledge Engine for Digital information storage, cognitive inference and content generation and orchestration.
+A versatile content extraction and storage script intended as a major component of a broader AI RAG application, still in an early discovery stage.
 # Components
 ## 1. Information Ingestion Factory
 #### Data Sources
